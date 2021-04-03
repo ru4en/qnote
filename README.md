@@ -27,3 +27,5 @@ use the `-l` or the `--list` argument to list out the folders inside the users n
 ### print out version
 use the `-v` or the `--version` argument to check out the version of the program. 
 ```$ qnote -v. --version```
+
+## DISCLAMER: this program is not yet ready for use. install at your own risk.
