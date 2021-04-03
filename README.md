@@ -1,6 +1,6 @@
 # 📝qnote 
 qnote is a simple command line based note taking app. 
-
+![example](https://user-images.githubusercontent.com/60962448/113468954-88923380-9441-11eb-9d6a-6592f7de2056.png)
 
 ## How to install
 on Linux or MacOS, copy the folder to the `~bin` directory.
